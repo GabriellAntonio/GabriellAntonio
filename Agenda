@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @GabriellAntonio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Inicio
+Criado a classe Agenda, dados os atributos e seus valores condizentes para determinada função.
+Craido logo apos as Strings e atribuido os valores para as mesmas.
+Dada as funções e seus valores foi criado as opções de escolha para a agenda por exemplo: "Incluir, Mostar cadastros, etx";
+---------------------------------------------------------------------------------------------------------------------------------
 
-<!---
-GabriellAntonio/GabriellAntonio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Criado as opções foi feito o switch de opções com seus case e fechando com break.
+Logo apos com a opção do while fui criando as entradas de informações colocando as informações e posições.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Criando e testando as opções até entao como incluir os cadastros verificando como iram se comportar de acordo com cada função
+Em seguida fazendo os cadastros corrigindo os bug's que foram apresentados na hora de não continuar um novo cadastro.
